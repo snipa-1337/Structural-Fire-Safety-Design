@@ -37,7 +37,8 @@
         "Factor": "1/1000",
         "Symbol": "g·mol⁻¹"},
     "J": {
-        "Dimension": [1,2,-2,0,0,0,0]},
+        "Dimension": [1,2,-2,0,0,0,0],
+        "Symbol": "J"},
     "W": {
         "Dimension": [1,2,-3,0,0,0,0]},
     "J_kg_K": {
